@@ -22,11 +22,16 @@
     margin-top: 20px;
     text-align: center;
   }
-
+  #TimSmith .image a {
+    font-size: 14px;
+  }
   .h-right {
     margin-top: 30px;
   }
   .members {
     margin-bottom: 29px;
+  }
+  #Pellent h3 {
+    font-size: 33px;
   }
 }
