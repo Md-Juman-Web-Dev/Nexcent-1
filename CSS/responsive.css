@@ -1,0 +1,32 @@
+@media (max-width: 991px) {
+  .left-side h1 {
+    font-size: 38px;
+    margin-top: 16px;
+  }
+  .right-side {
+    margin-top: 30px;
+  }
+  .brand {
+    margin-top: 15px;
+  }
+  #membership h2 {
+    font-size: 33px;
+  }
+  /* end  */
+  .left-side a {
+    margin-bottom: 32px;
+  }
+  /* end */
+  .h-left h3 {
+    font-size: 35px;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .h-right {
+    margin-top: 30px;
+  }
+  .members {
+    margin-bottom: 29px;
+  }
+}
