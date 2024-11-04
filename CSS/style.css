@@ -322,3 +322,65 @@ footer {
   width: 100%;
   background-color: var(--neutral-black);
 }
+footer .copyright {
+  margin: 40px 0;
+}
+footer .copyright p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  color: var(--neutral-silver);
+  margin: 4px 0;
+}
+footer .cion-box iconify-icon {
+  padding: 7.47px;
+  background: #3c474c;
+  border-radius: 50%;
+  font-size: 22px;
+  color: #fff;
+  transition: 0.2s;
+}
+footer .cion-box iconify-icon:hover {
+  background: var(--brand-primary);
+}
+footer .fist-menu h3 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: var(--neutral-white);
+}
+footer .fist-menu ul {
+  margin-top: 24px;
+}
+footer .fist-menu li {
+  margin: 6px 0;
+}
+footer .fist-menu a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  color: var(--neutral-silver);
+}
+footer .fist-menu .input-box {
+  border-radius: 8px;
+  width: 255px;
+  height: 40px;
+  background: #515b60;
+  margin-top: 24px;
+}
+footer .fist-menu input {
+  background: transparent;
+  border: 0;
+  outline: none;
+  padding: 10px;
+  width: 82%;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 143%;
+  color: #d9dbe1;
+}
+footer .fist-menu button {
+  background: transparent;
+  border: 0;
+  margin-left: 12px;
+}

@@ -34,4 +34,9 @@
   #Pellent h3 {
     font-size: 33px;
   }
+
+  /* footer */
+  footer .cion-box {
+    margin-bottom: 15px;
+  }
 }
